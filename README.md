@@ -1,5 +1,7 @@
 # Emergent taxonomy generator
 
+![alt text](https://github.com/UNDP-Accelerator-Labs/Raving-AI-Panama/blob/main/flask_app/static/img/preview.png)
+
 ## Steps
 
 ### Creating a database and generating synthetic content
