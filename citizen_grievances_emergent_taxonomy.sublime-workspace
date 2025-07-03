@@ -1,0 +1,981 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"moveup"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"trans",
+				"transcriptData"
+			],
+			[
+				"grid",
+				"grid-gap"
+			],
+			[
+				"list",
+				"listItems"
+			],
+			[
+				"elem",
+				"elements"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"typ",
+				"typeMatches"
+			],
+			[
+				"render",
+				"renderMenu"
+			],
+			[
+				"add",
+				"addElems"
+			],
+			[
+				"meta",
+				"metadata"
+			],
+			[
+				"mta",
+				"metaobj"
+			],
+			[
+				"met",
+				"metadata"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"eleme",
+				"elements_in_stories"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"ele",
+				"elementpath"
+			],
+			[
+				"a",
+				"after"
+			],
+			[
+				"base",
+				"basepath"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"getT",
+				"getTitle"
+			],
+			[
+				"eme",
+				"elementfile"
+			],
+			[
+				"elee",
+				"elementfile"
+			],
+			[
+				"elt",
+				"elements"
+			],
+			[
+				"el",
+				"eltags"
+			],
+			[
+				"MA",
+				"MATCHCOUNT"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns"
+			],
+			[
+				"inse",
+				"insertElems"
+			],
+			[
+				"parse",
+				"parseMetadata"
+			],
+			[
+				"tran",
+				"translateX()"
+			],
+			[
+				"stro",
+				"stroke-dasharray"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"filt",
+				"filteredData"
+			],
+			[
+				"S",
+				"sans-serif"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"pla",
+				"playbackSteps"
+			],
+			[
+				"addEl",
+				"addElems"
+			],
+			[
+				"ht",
+				"hmtl"
+			],
+			[
+				"play",
+				"playhead"
+			],
+			[
+				"aud",
+				"audioData"
+			],
+			[
+				"audio",
+				"audioData"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"audi",
+				"audioDuration"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"get",
+				"getMP3"
+			],
+			[
+				"n",
+				"normalizeData"
+			],
+			[
+				"adu",
+				"audioBuffer"
+			],
+			[
+				"jso",
+				"json_agg"
+			],
+			[
+				"mobi",
+				"mobilization"
+			],
+			[
+				"resou",
+				"resource_path"
+			],
+			[
+				"ref",
+				"refparams"
+			],
+			[
+				"aut",
+				"authorized"
+			],
+			[
+				"ex",
+				"external_resource"
+			],
+			[
+				"dat",
+				"databases"
+			],
+			[
+				"mb",
+				"mobilizations"
+			],
+			[
+				"pinbo",
+				"pinboard"
+			],
+			[
+				"pin",
+				"pinboards"
+			],
+			[
+				"inc",
+				"include_pinboards"
+			],
+			[
+				"user",
+				"userengagement"
+			],
+			[
+				"pad",
+				"pad_locations"
+			],
+			[
+				"cou",
+				"countries"
+			],
+			[
+				"inclu",
+				"include_locations"
+			],
+			[
+				"top",
+				"topo_basemap"
+			],
+			[
+				"topo",
+				"topo_basemap"
+			],
+			[
+				"sipl",
+				"simplification"
+			],
+			[
+				"gener",
+				"generated_maps"
+			],
+			[
+				"quer",
+				"queryString"
+			],
+			[
+				"pro",
+				"projection"
+			],
+			[
+				"proj",
+				"projection"
+			],
+			[
+				"ba",
+				"background_color"
+			],
+			[
+				"k",
+				"kwargs"
+			],
+			[
+				"pinb",
+				"pinboard_contributions"
+			],
+			[
+				"count",
+				"countries"
+			],
+			[
+				"fu",
+				"full_filters"
+			],
+			[
+				"c-ligh",
+				"c-light-grey"
+			],
+			[
+				"read",
+				"read_count"
+			],
+			[
+				"own",
+				"ownDB"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"missing",
+				"missing_sdgs"
+			],
+			[
+				"templ",
+				"templates_with_missing_tags"
+			],
+			[
+				"miss",
+				"missing_sdgs"
+			],
+			[
+				"missin",
+				"missing_thematic"
+			],
+			[
+				"tep",
+				"templates"
+			],
+			[
+				"tem",
+				"templates_with_missing_tags"
+			],
+			[
+				"tepl",
+				"templates_with_missing_tags"
+			],
+			[
+				"renderP",
+				"renderPinOptions"
+			],
+			[
+				"order",
+				"orderid"
+			],
+			[
+				"engag",
+				"engagement"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"sec",
+				"sections"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"publ",
+				"publish_dropdown"
+			],
+			[
+				"publi",
+				"publish_dropdown"
+			],
+			[
+				"pu",
+				"publishable"
+			],
+			[
+				"next",
+				"nextMeta"
+			],
+			[
+				"scal",
+				"scaling"
+			],
+			[
+				"la",
+				"language"
+			],
+			[
+				"f",
+				"forEach"
+			],
+			[
+				"app",
+				"app_home"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"trna",
+				"translateX()"
+			],
+			[
+				"transfor",
+				"transform-origin"
+			],
+			[
+				"exp",
+				"experiment"
+			],
+			[
+				"te",
+				"template_id"
+			],
+			[
+				"ma",
+				"maxkeys"
+			],
+			[
+				"compile",
+				"compileLocations"
+			],
+			[
+				"app_ti",
+				"app_title_short"
+			],
+			[
+				"ful",
+				"fullVocabulary"
+			],
+			[
+				"section",
+				"section_instruction"
+			],
+			[
+				"sub",
+				"subtext"
+			],
+			[
+				"subi",
+				"subitem"
+			],
+			[
+				"group",
+				"grouptext"
+			],
+			[
+				"full",
+				"fullTxt"
+			],
+			[
+				"dis",
+				"disclaimer_text"
+			],
+			[
+				"mobili",
+				"mobilization"
+			],
+			[
+				"onw",
+				"own_app_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "generate_data/__main__.py",
+			"settings":
+			{
+				"buffer_size": 863,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAXwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"csss",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"hmtl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"httml",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htmn",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htlm",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ht l",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"ccss",
+				"Convert Case: Swap Case"
+			],
+			[
+				"htmnl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"hml",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"htl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"hm",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/myjyby/Documents/Projects/Evaluation_case_studies/README.md",
+		"/Users/myjyby/Documents/Projects/Evaluation_case_studies/.gitignore",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/tools/index.html",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/tactics/index.html",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/js/visualization.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/js/parsers.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/js/transcript.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/scripts/compile_menu.py",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/scripts/compile_stories_index.py",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/scripts/compile_element_links.py",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/stories/pages/Explorers_MEX.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/stories/pages/Explorers_ARG.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/skills/index.html",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/principles/index.html",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/scripts/compile_elements_index.py",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/pages/Recognize local expertise.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/routing.json",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/js/menu.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/css/audio.css",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/css/main.css",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/pages/Accessibility of knowledge.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/pages/Deep listening to map beyond the intangible.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/README.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/js/load.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/stories/README.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/js/audio.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/js/d3.extensions.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/index.html",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/stories/index.html",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/index.html",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/.gitignore",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/generated/Accessibility of knowledge.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/scripts/dep.compile_element_links.py",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/README.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/public/js/menu.js",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/skills/pages/Analysing large datasets.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/sh/compile_element_links.py",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/js/audio.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/stories/pages/ARG_01.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/css/main.css",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/css/audio.css",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/js/parsers.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/js/transcript.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/js/load.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/sh/compile_stories_index.py",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/stories/pages/ECU_01.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/tools/pages/Open data.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/tools/pages/Extra tool.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/skills/pages/Visualizing open data.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/skills/pages/Solutions mapping.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/sh/dep.compile_sitemap.sh",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/tools/Open data.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/tools/Extra tool.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/skills/Visualizing open data.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/skills/Solutions mapping.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/skills/Analysing large datasets.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/stories/story/index.html",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/stories/MEX_01.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/story/index.html",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/js/visualization.mjs",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/notes.txt",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/sh/add_links_to_stories.py",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/stories/ARG_01.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/skills.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/elements/tools.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/data/ARG_01.md",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/sh/compile_sitemap.sh",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/js/d3.prototype.extensions.js",
+		"/Users/myjyby/Documents/Projects/Codification fest/Archive/static/data/stories.mjs",
+		"/Users/myjyby/Documents/Projects/Air pollution/README.md",
+		"/Users/myjyby/Documents/Projects/Cooling Solutions/README.md",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/publish/urls/publish.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/save/resource/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/share/resource/share.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/contribute/pad/render.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/publish/pads/publish.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/contribute/pad/save.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/views/contribute/pad/index.ejs",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/contribute/pad/load.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/contribute/pad/render.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/contribute/pad/authorization.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/save/pad/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/contribute/resource/render.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/helpers/datastructures/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/apis/pinboards/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/login/process.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/request/resource/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/app.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/pads.env",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/login/sso-validate.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/fetch.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/contribute/pad/load/status.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/main.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/contribute/resource/load/data.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/contribute/pad/load/data.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/views/message.ejs",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/contribute/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/browse/homepage/render.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/load/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/apis/map/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/browse/pads/filter.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/save/img/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/init.sql",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/apis/map/render.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/apis/map/README.md",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/upload/img/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/helpers/blobcontainer/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/request/img/buffer.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/request/img/url.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/apis/map/geo.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/helpers/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/apis/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/save/xlsx/index.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/.gitignore",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/browse/contributors/load/data.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/browse/contributors/render.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/views/browse/modules/data.ejs",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/contribute/contributor/main.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/scss/_map.scss",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/browse/render.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/load.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/contribute/resource/load.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/browse/pads/load/data.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/browse/pads/render.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/public/js/contribute/xlsx/main.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/apis/pads/json.js",
+		"/Users/myjyby/Documents/Projects/_00_pads/routes/apis/tags/index.js"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 163.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "generate_data/__main__.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								863,
+								863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"node_modules/cheerio/lib/api/css.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 305.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
