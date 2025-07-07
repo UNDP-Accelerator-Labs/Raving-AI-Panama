@@ -48,7 +48,7 @@ class Keywords:
 			Each post should not have more than 5 keywords.
 			The list of keywords you can chose from is open ended, meaning there is no pre-defined taxonomy.
 			You return a list of the keywords for each post, and only those keywords. 
-			Your only task is to predict keywrods.
+			Your only task is to predict keywords.
 			Do not include references to the posts in your output.
 			The output should strictly follow the format below between the three hashtags.
 			```
